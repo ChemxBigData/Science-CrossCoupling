@@ -26,4 +26,6 @@ This code tutorial is for study use only, not for any commercial use.
 
 * Part2 MLData: codes for prepare machine learning dataset
 
-* Part3 
+* Part3 MachineLearning (Linear Regression): codes for linear regression ML models
+
+* Part4
