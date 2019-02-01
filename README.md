@@ -1,4 +1,4 @@
-# Science-CrossCoupling
+# Science-CrossCoupling Paper Tutorial
 
 A step-by-step code tutorial for the Science paper (DOI: 10.1126/science.aar5169) by Doyle group ( @ Princeton University). 
 
