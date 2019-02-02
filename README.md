@@ -4,7 +4,7 @@ A step-by-step code tutorial for the Science paper (DOI: 10.1126/science.aar5169
 
 Their codes and original datasets of this paper are also avaiable on GitHub (https://github.com/doylelab/rxnpredict). 
 
-Part of these data in their project were processed by R, in this tutorial, these data are processed by python. 
+Most of these data in their project were processed by R including data processing and machine learning models training, in this tutorial, these data are processed by python. 
 
 The aim of this tutorial is to provide a quick guide for people who has chemistry background and are interested in data analysis/machine learning. 
 
