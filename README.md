@@ -10,6 +10,12 @@ The aim of this tutorial is to provide a quick guide for people who has chemistr
 
 This code tutorial is for study use only, not for any commercial use.
 
+# Prerequisites
+
+Basic knowledges of data analysis, data mining with python. Python packages used in this tutorial include pandas, numpy, matplotlib/matplotlib.pyplot, scikit-learn. 
+
+Depends on how much time you have to learn these skills. In your first month, you can start with "Data Scientist with Python" track on DataCamp. After this, you should have a basic sense of python in data analysis. Then, I would suggest you read these two books: Python for Data Analysis (by Wes Mckinney, the author of pandas) and Hands-On Machine Learning with Sckikit-Learn & Tensorflow (by Aurelien Geron). The first book talks about data analysis with pandas, numpy in details. The second book focuses on machine learning, a lot codes and also necessary math for machine learning. 
+
 # Software 
 
 * Python 3.7: data analysis, machine learning
