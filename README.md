@@ -34,4 +34,6 @@ Depends on how much time you have to learn these skills. In your first month, yo
 
 * Part3 MachineLearning (Linear Regression): codes for linear regression ML models
 
-* Part4
+* Part4 MachineLearning (More Models): codes for other commonly used models including logistic regression, SVM, neural network, Bayesian ridge regression, kNN, Random Forest.
+
+* Part5 
