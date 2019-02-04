@@ -30,10 +30,12 @@ Depends on how much time you have to learn these skills. In your first month, yo
 
 * Part1 YieldDataCleaning: codes for cleaning reaction yied data from raw csv files.
 
-* Part2 MLData: codes for prepare machine learning dataset
+* Part2 MLData: codes for prepare machine learning dataset.
 
-* Part3 MachineLearning (Linear Regression): codes for linear regression ML models
+* Part3 MachineLearning (Linear Regression): codes for linear regression ML models.
 
 * Part4 MachineLearning (More Models): codes for other commonly used models including logistic regression, SVM, neural network, Bayesian ridge regression, kNN, Random Forest.
 
-* Part5 RandomForest (More Details): 
+* Part5 RandomForest (More Details): codes for using optimized RandomForest model to investigate more details.
+
+* Part6 Extra Materials (Tensorflow): (optional part) codes for using tensorflow to run machine learning models.
