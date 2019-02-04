@@ -36,4 +36,4 @@ Depends on how much time you have to learn these skills. In your first month, yo
 
 * Part4 MachineLearning (More Models): codes for other commonly used models including logistic regression, SVM, neural network, Bayesian ridge regression, kNN, Random Forest.
 
-* Part5 
+* Part5 RandomForest (More Details): 
