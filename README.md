@@ -2,7 +2,7 @@
 
 A step-by-step code tutorial for the Science paper (DOI: 10.1126/science.aar5169) by Doyle group ( @ Princeton University). 
 
-Their codes and original datasets of this paper are also avaiable on GitHub (https://github.com/doylelab/rxnpredict). 
+Their codes and original datasets of this paper are also avaiable on their group [GitHub](https://github.com/doylelab/rxnpredict). 
 
 Most of these data in their project were processed by R including data processing and machine learning models training, in this tutorial, these data are processed by python. 
 
@@ -42,4 +42,4 @@ Depends on how much time you have to learn these skills. In your first month, yo
 
 # License
 
-This project is licensed under the MIT license - see LICENSE.md.
+This project is licensed under the MIT license - see [LICENSE.md](https://github.com/ChemxBigData/Science-CrossCoupling/blob/master/LICENSE).
