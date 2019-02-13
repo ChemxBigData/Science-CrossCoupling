@@ -39,3 +39,7 @@ Depends on how much time you have to learn these skills. In your first month, yo
 * Part5 RandomForest (More Details): codes for using optimized RandomForest model to investigate more details.
 
 * Part6 Extra Materials (Tensorflow): (optional part) codes for using tensorflow to run machine learning models.
+
+# License
+
+This project is licensed under the MIT license - see LICENSE.md.
