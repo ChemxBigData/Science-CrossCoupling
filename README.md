@@ -8,8 +8,6 @@ Most of these data in their project were processed by R including data processin
 
 The aim of this tutorial is to provide a quick guide for people who has chemistry background and are interested in data analysis/machine learning. 
 
-This code tutorial is for study use only, not for any commercial use.
-
 # Prerequisites
 
 Basic knowledges of data analysis, data mining with python. Python packages used in this tutorial include pandas, numpy, matplotlib/matplotlib.pyplot, scikit-learn. 
