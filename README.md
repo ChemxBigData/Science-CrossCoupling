@@ -1,6 +1,6 @@
 # Science-CrossCoupling Paper Tutorial
 
-A step-by-step code tutorial for the Science paper (DOI: 10.1126/science.aar5169) by Doyle group ( @ Princeton University). 
+A step-by-step code tutorial for the [Science paper](http://dx.doi.org/10.1126/science.aar5169) by Doyle group (@Princeton University). 
 
 Their codes and original datasets of this paper are also avaiable on their group [GitHub](https://github.com/doylelab/rxnpredict). 
 
